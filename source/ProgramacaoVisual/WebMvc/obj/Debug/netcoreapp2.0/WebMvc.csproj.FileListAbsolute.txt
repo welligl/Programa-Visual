@@ -8,3 +8,13 @@
 /mnt/c/Users/opet/Documents/Github/source/ProgramacaoVisual/WebMvc/obj/Debug/netcoreapp2.0/WebMvc.AssemblyInfo.cs
 /mnt/c/Users/opet/Documents/Github/source/ProgramacaoVisual/WebMvc/obj/Debug/netcoreapp2.0/WebMvc.dll
 /mnt/c/Users/opet/Documents/Github/source/ProgramacaoVisual/WebMvc/obj/Debug/netcoreapp2.0/WebMvc.pdb
+/mnt/c/Users/opet/Documents/Github/Programa-Visual/source/ProgramacaoVisual/WebMvc/obj/Debug/netcoreapp2.0/WebMvc.csproj.CoreCompileInputs.cache
+/mnt/c/Users/opet/Documents/Github/Programa-Visual/source/ProgramacaoVisual/WebMvc/obj/Debug/netcoreapp2.0/WebMvc.AssemblyInfoInputs.cache
+/mnt/c/Users/opet/Documents/Github/Programa-Visual/source/ProgramacaoVisual/WebMvc/obj/Debug/netcoreapp2.0/WebMvc.AssemblyInfo.cs
+/mnt/c/Users/opet/Documents/Github/Programa-Visual/source/ProgramacaoVisual/WebMvc/obj/Debug/netcoreapp2.0/WebMvc.dll
+/mnt/c/Users/opet/Documents/Github/Programa-Visual/source/ProgramacaoVisual/WebMvc/obj/Debug/netcoreapp2.0/WebMvc.pdb
+/mnt/c/Users/opet/Documents/Github/Programa-Visual/source/ProgramacaoVisual/WebMvc/bin/Debug/netcoreapp2.0/WebMvc.deps.json
+/mnt/c/Users/opet/Documents/Github/Programa-Visual/source/ProgramacaoVisual/WebMvc/bin/Debug/netcoreapp2.0/WebMvc.runtimeconfig.json
+/mnt/c/Users/opet/Documents/Github/Programa-Visual/source/ProgramacaoVisual/WebMvc/bin/Debug/netcoreapp2.0/WebMvc.runtimeconfig.dev.json
+/mnt/c/Users/opet/Documents/Github/Programa-Visual/source/ProgramacaoVisual/WebMvc/bin/Debug/netcoreapp2.0/WebMvc.dll
+/mnt/c/Users/opet/Documents/Github/Programa-Visual/source/ProgramacaoVisual/WebMvc/bin/Debug/netcoreapp2.0/WebMvc.pdb

@@ -12540,11 +12540,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/mnt/c/Users/opet/Documents/Github/source/ProgramacaoVisual/WebMvc/WebMvc.csproj",
+      "projectUniqueName": "/mnt/c/Users/opet/Documents/Github/Programa-Visual/source/ProgramacaoVisual/WebMvc/WebMvc.csproj",
       "projectName": "WebMvc",
-      "projectPath": "/mnt/c/Users/opet/Documents/Github/source/ProgramacaoVisual/WebMvc/WebMvc.csproj",
+      "projectPath": "/mnt/c/Users/opet/Documents/Github/Programa-Visual/source/ProgramacaoVisual/WebMvc/WebMvc.csproj",
       "packagesPath": "/home/opet/.nuget/packages/",
-      "outputPath": "/mnt/c/Users/opet/Documents/Github/source/ProgramacaoVisual/WebMvc/obj/",
+      "outputPath": "/mnt/c/Users/opet/Documents/Github/Programa-Visual/source/ProgramacaoVisual/WebMvc/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/share/dotnet/sdk/NuGetFallbackFolder"
